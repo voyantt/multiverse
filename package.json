@@ -1,0 +1,28 @@
+{
+  "name": "multiverse",
+  "version": "1.0.0",
+  "description": "Multiverse - a local reverse-proxy manager",
+  "main": "multiverse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ice-devs/multiverse.git"
+  },
+  "keywords": [
+    "multiverse",
+    "reverse-proxy"
+  ],
+  "author": "ice-dev (voyant)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ice-devs/multiverse/issues"
+  },
+  "homepage": "https://github.com/ice-devs/multiverse#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy": "^1.18.1",
+    "vhost": "^3.0.2"
+  }
+}
