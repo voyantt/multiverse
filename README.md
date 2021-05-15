@@ -17,7 +17,7 @@ Scenario: You have a webserver running on port `3000` and you want to bind it to
 
 **NOTICE:** If you want to bind a domain/subdomain you need to properly configure and point the IP of the host machine.
 
-In that case your `.servers.json` would look like this
+In that case your `servers.json` would look like this
 
 ```js
 [
