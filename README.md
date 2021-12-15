@@ -7,7 +7,7 @@ Multiverse is a local reverse-proxy server for having multiple webservers on dif
 Use [git](https://git-scm.com/) download Multiverse.
 
 ```bash
-git clone https://github.com/ice-devs/multiverse
+git clone https://github.com/voyantt/multiverse
 ```
 
 ## Configuring
